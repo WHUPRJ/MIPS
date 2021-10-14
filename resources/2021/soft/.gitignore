@@ -1,0 +1,13 @@
+obj/
+*.o
+*.bin
+*.elf
+*.a
+testbin
+*.s
+*.vlog
+*.coe
+*.data
+*.mif
+bin.lds
+convert
